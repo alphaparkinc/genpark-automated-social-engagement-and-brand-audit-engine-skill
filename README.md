@@ -1,0 +1,1 @@
+# genpark-automated-social-engagement-and-brand-audit-engine-skill\n\nAudits brand social metrics, engagement velocity, and identifies content gaps automatically.\n\n100% Python Standard Library implementation with zero external dependencies.
