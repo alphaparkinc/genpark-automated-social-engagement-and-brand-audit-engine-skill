@@ -1,0 +1,1 @@
+[project]\nname = "genpark-automated-social-engagement-and-brand-audit-engine-skill"\nversion = "1.0.0"\ndescription = "Audits brand social metrics, engagement velocity, and identifies content gaps automatically"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
