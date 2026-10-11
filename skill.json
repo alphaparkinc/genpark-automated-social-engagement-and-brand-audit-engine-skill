@@ -1,0 +1,8 @@
+{
+  "name": "genpark-automated-social-engagement-and-brand-audit-engine-skill",
+  "version": "1.0.0",
+  "description": "Audits brand social metrics, engagement velocity, and identifies content gaps automatically",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
